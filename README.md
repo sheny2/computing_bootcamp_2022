@@ -1,4 +1,4 @@
-# Duke University :: Department of Statistical Science Computing Bootcamp 2022
+# Duke University :: DSS Computing Bootcamp 2022
 
 This repository contains the computing bootcamp materials for incoming
 Ph.D. and M.S. students to the Department of Statistical Science at
